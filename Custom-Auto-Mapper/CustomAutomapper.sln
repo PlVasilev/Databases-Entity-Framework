@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automapper", "Automapper\Automapper.csproj", "{AD880274-5F97-4506-B372-8A149F470547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomapperMyApp", "AutomapperMyApp\AutomapperMyApp.csproj", "{BE8475E7-2647-46DD-B51F-968618F75D07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAutomapperLab", "AutomapperLab\CustomAutomapperLab.csproj", "{75260A3C-42E2-4322-AA2F-C29032E20014}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAutoMapperStamo", "CustomAutoMapper\CustomAutoMapperStamo.csproj", "{BF60BC6B-EBC9-437F-A258-888DFCDC3390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD880274-5F97-4506-B372-8A149F470547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD880274-5F97-4506-B372-8A149F470547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD880274-5F97-4506-B372-8A149F470547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD880274-5F97-4506-B372-8A149F470547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8475E7-2647-46DD-B51F-968618F75D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8475E7-2647-46DD-B51F-968618F75D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8475E7-2647-46DD-B51F-968618F75D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8475E7-2647-46DD-B51F-968618F75D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75260A3C-42E2-4322-AA2F-C29032E20014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75260A3C-42E2-4322-AA2F-C29032E20014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75260A3C-42E2-4322-AA2F-C29032E20014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75260A3C-42E2-4322-AA2F-C29032E20014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF60BC6B-EBC9-437F-A258-888DFCDC3390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF60BC6B-EBC9-437F-A258-888DFCDC3390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF60BC6B-EBC9-437F-A258-888DFCDC3390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF60BC6B-EBC9-437F-A258-888DFCDC3390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1DCCFBC-82BB-45CD-8551-8C7A8EDB53F6}
+	EndGlobalSection
+EndGlobal
